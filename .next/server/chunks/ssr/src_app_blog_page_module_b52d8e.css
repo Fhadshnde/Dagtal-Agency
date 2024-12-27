@@ -1,0 +1,25 @@
+/* [project]/src/app/blog/page.module.css [app-client] (css) */
+.page-module__jXZM3G__container {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+
+.page-module__jXZM3G__image {
+  object-fit: cover;
+}
+
+.page-module__jXZM3G__content {
+}
+
+.page-module__jXZM3G__title {
+  margin-bottom: 10px;
+}
+
+.page-module__jXZM3G__desc {
+  font-size: 18px;
+  color: #999;
+}
+
+/*# sourceMappingURL=src_app_blog_page_module_b52d8e.css.map*/

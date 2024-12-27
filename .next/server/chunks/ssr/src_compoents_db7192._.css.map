@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/compoents/navbar/navbar.module.css"],"sourcesContent":[".container {\r\n    height: 100px;\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n  }\r\n  \r\n  .logo {\r\n    font-weight: bold;\r\n    font-size: 22px;\r\n  }\r\n  \r\n  .links {\r\n    display: flex;\r\n    align-items: center;\r\n    gap: 20px;\r\n  }\r\n  \r\n  .logout {\r\n    padding: 5px;\r\n    border: none;\r\n    background-color: #53c28b;\r\n    color: white;\r\n    cursor: pointer;\r\n    border-radius: 3px;\r\n  }"],"names":[],"mappings":"AAAA;;;;;;;AAOE;;;;;AAKA;;;;;;AAMA"}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/compoents/DarkModeToggle/darkModeToggle.module.css"],"sourcesContent":[".container{\n  width: 42px;\n  height: 24px;\n  border: 1.5px solid #53c28b70;\n  border-radius: 30px;\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  padding: 2px;\n  position: relative;\n  cursor: pointer;\n}\n\n.icon{\n  font-size: 12px;\n}\n\n.ball{\n  width: 15px;\n  height: 15px;\n  background-color: #53c28b;\n  border-radius: 50%;\n  position: absolute;\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;AAaA;;;;AAIA"}},
+    {"offset": {"line": 54, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

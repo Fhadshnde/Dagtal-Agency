@@ -1,0 +1,73 @@
+/* [project]/src/app/dashborad/(auth)/login/page.module.css [app-client] (css) */
+.page-module__cdyfFG__container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.page-module__cdyfFG__title {
+  color: #bbb;
+}
+
+.page-module__cdyfFG__subtitle {
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: #bbb;
+}
+
+.page-module__cdyfFG__form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.page-module__cdyfFG__input {
+  padding: 20px;
+  background-color: #0000;
+  border: 2px solid #bbb;
+  border-radius: 5px;
+  outline: none;
+  color: #bbb;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.page-module__cdyfFG__button {
+  width: 300px;
+  padding: 20px;
+  cursor: pointer;
+  background-color: #53c28b;
+  border: none;
+  border-radius: 5px;
+  color: #eee;
+  font-weight: bold;
+}
+
+.page-module__cdyfFG__button:hover {
+  background-color: #49b07d;
+}
+
+.page-module__cdyfFG__or {
+  color: #bbb;
+}
+
+.page-module__cdyfFG__link {
+  text-decoration: underline;
+  color: #7d7c7c;
+}
+
+.page-module__cdyfFG__link:hover {
+  color: #3d3d3d;
+}
+
+.page-module__cdyfFG__google {
+  background-color: #e46132b8;
+}
+
+.page-module__cdyfFG__google:hover {
+  background-color: #e46132cd;
+}
+
+/*# sourceMappingURL=src_app_dashborad_%28auth%29_login_page_module_b52d8e.css.map*/

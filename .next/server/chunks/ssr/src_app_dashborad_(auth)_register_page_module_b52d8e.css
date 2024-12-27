@@ -1,0 +1,38 @@
+/* [project]/src/app/dashborad/(auth)/register/page.module.css [app-client] (css) */
+.page-module__v3pZ8a__container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-module__v3pZ8a__form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.page-module__v3pZ8a__input {
+  padding: 20px;
+  background-color: #0000;
+  border: 2px solid #bbb;
+  color: #bbb;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.page-module__v3pZ8a__button {
+  width: 300px;
+  padding: 20px;
+  cursor: pointer;
+  background-color: #53c28b;
+  border: none;
+  border-radius: 5px;
+  color: #eee;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=src_app_dashborad_%28auth%29_register_page_module_b52d8e.css.map*/

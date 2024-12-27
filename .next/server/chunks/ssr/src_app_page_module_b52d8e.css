@@ -1,0 +1,43 @@
+/* [project]/src/app/page.module.css [app-client] (css) */
+.page-module___8aEwW__container {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+.page-module___8aEwW__item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.page-module___8aEwW__title {
+  font-size: 72px;
+  background: linear-gradient(#194c33, #bbb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.page-module___8aEwW__img {
+  width: 100%;
+  height: 500px;
+  object-fit: contain;
+}
+
+@keyframes page-module___8aEwW__move {
+  from {
+    transform: translateY(-10px);
+  }
+
+  to {
+    transform: translateY(10px);
+  }
+}
+
+.page-module___8aEwW__desc {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+/*# sourceMappingURL=src_app_page_module_b52d8e.css.map*/
