@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "resolutions": { "string-width-cjs": "^4.2.3" },
   "keywords": [],
   "author": "",
   "license": "ISC",
