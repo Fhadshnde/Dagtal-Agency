@@ -2,16 +2,15 @@
   "name": "dagtal-agenced",
   "version": "1.0.0",
   "main": "index.js",
-  
-"scripts": { "start": "react-scripts start",
- "build": "react-scripts build", 
- "test": "react-scripts test",
-  "eject": "react-scripts eject",
-   "vercel-build": "npm run build"
-   },
-  
-  
-  "resolutions": { "string-width-cjs": "^4.2.3" },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "vercel-build": "npm run build"
+  },
+  "resolutions": {
+    "string-width-cjs": "^4.2.3"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -287,7 +286,8 @@
     "stable-hash": "^0.0.4",
     "streamsearch": "^1.1.0",
     "string-width": "^5.1.2",
-    "string-width-cjs":"^5.1.1"  ,  "string.prototype.includes": "^2.0.1",
+    "string-width-cjs": "^5.1.1",
+    "string.prototype.includes": "^2.0.1",
     "string.prototype.matchall": "^4.0.12",
     "string.prototype.repeat": "^1.0.0",
     "string.prototype.trim": "^1.2.10",
@@ -335,6 +335,5 @@
     "yallist": "^4.0.0",
     "yaml": "^2.6.1",
     "yocto-queue": "^0.1.0"
-  },
-  "devDependencies": {}
+  }
 }

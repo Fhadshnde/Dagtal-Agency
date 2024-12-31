@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/app/contact/page.module.css"],"sourcesContent":[".container {\r\n}\r\n\r\n.title {\r\n  font-size: 60px;\r\n  margin-bottom: 100px;\r\n  text-align: center;\r\n}\r\n\r\n.content {\r\n  display: flex;\r\n  align-items: center;\r\n  gap: 100px;\r\n}\r\n\r\n.imgContainer {\r\n  flex: 1;\r\n  height: 500px;\r\n  position: relative;\r\n}\r\n\r\n.image {\r\n  object-fit: contain;\r\n  /* animation: move 3s infinite ease alternate; */\r\n}\r\n\r\n@keyframes move {\r\n  from {\r\n    transform: translateY(-15px);\r\n  }\r\n  to {\r\n    transform: translateY(0px) scale(1.03);\r\n  }\r\n}\r\n\r\n.form {\r\n  flex: 1;\r\n  display: flex;\r\n  flex-direction: column;\r\n  gap: 20px;\r\n}\r\n\r\n.input,\r\n.textArea {\r\n  padding: 20px;\r\n  background-color: transparent;\r\n  border: none;\r\n  outline: none;\r\n  color: #bbb;\r\n  border: 3px solid #bbb;\r\n  font-size: 20px;\r\n  font-weight: bold;\r\n}"],"names":[],"mappings":"AAAA;;;AAGA;;;;;;AAMA;;;;;;AAMA;;;;;;AAMA;;;;AAKA;;;;;;;;;;AASA;;;;;;;AAOA"}},
-    {"offset": {"line": 53, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 56, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/compoents/Button/button.module.css"],"sourcesContent":[".container {\n  padding: 20px;\n  cursor: pointer;\n  background-color: #53c28b;\n  border: none;\n  border-radius: 5px;\n  width: max-content;\n  color: white;\n}\n"],"names":[],"mappings":"AAAA"}},
-    {"offset": {"line": 65, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

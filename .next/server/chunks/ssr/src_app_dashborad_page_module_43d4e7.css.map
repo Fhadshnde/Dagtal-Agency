@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/app/dashborad/page.module.css"],"sourcesContent":[".container {\r\n    display: flex;\r\n    gap: 100px;\r\n  }\r\n  \r\n  .posts {\r\n    flex: 1;\r\n  }\r\n  \r\n  .post {\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: space-between;\r\n    margin: 50px 0px;\r\n  }\r\n  \r\n  .imgContainer {\r\n    width: 200px;\r\n    height: 100px;\r\n    position: Ū;\r\n  }\r\n  \r\n  .img {\r\n    object-fit: cover;\r\n  }\r\n  \r\n  .delete {\r\n    cursor: pointer;\r\n    color: red;\r\n  }\r\n  \r\n  .new {\r\n    flex: 1;\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 20px;\r\n  }\r\n  \r\n  .input,\r\n  .textArea {\r\n    padding: 10px;\r\n    background-color: transparent;\r\n    border: 2px solid #bbb;\r\n    border-radius: 3px;\r\n    color: #bbb;\r\n    font-size: 20px;\r\n    font-weight: bold;\r\n  }\r\n  \r\n  .button {\r\n    padding: 20px;\r\n    cursor: pointer;\r\n    background-color: #53c28b;\r\n    border: none;\r\n    border-radius: 5px;\r\n    color: #eee;\r\n    font-weight: bold;\r\n  }"],"names":[],"mappings":"AAAA;;;;;AAKE;;;;AAIA;;;;;;;AAOA;;;;;;AAMA;;;;AAIA;;;;;AAKA;;;;;;;AAOA;;;;;;;;;;AAWA"}},
-    {"offset": {"line": 58, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

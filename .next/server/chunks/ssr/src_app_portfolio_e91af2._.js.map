@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":["turbopack://[project]/src/app/portfolio/page.module.css [app-client] (css module)"],"sourcesContent":["__turbopack_export_value__({\n  \"container\": \"page-module__JZa57W__container\",\n  \"item\": \"page-module__JZa57W__item\",\n  \"items\": \"page-module__JZa57W__items\",\n  \"mainTitle\": \"page-module__JZa57W__mainTitle\",\n  \"selectTitle\": \"page-module__JZa57W__selectTitle\",\n  \"title\": \"page-module__JZa57W__title\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA"}},
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 20, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/app/portfolio/layout.jsx"],"sourcesContent":["\r\nimport React from 'react'\r\nimport styles from './page.module.css'\r\n\r\nconst Layout = ({children}) => {\r\n  return (\r\n    <div>\r\n      <h1 className={styles.mainTitle}>Our Works</h1>\r\n      {children}\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default Layout\r\n"],"names":[],"mappings":";;;;AACA;AACA;;;;AAEA,MAAM,SAAS,CAAC,EAAC,QAAQ,EAAC;IACxB,qBACE,8OAAC;;0BACC,8OAAC;gBAAG,WAAW,8IAAA,CAAA,UAAM,CAAC,SAAS;0BAAE;;;;;;YAChC;;;;;;;AAGP;uCAEe"}},
-    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}

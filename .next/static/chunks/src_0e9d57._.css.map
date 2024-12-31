@@ -1,9 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/app/page.module.css"],"sourcesContent":[".container {\r\n    display: flex;\r\n    align-items: center;\r\n    gap: 100px;\r\n  }\r\n  \r\n  .item {\r\n    flex: 1;\r\n    display: flex;\r\n    flex-direction: column;\r\n    gap: 50px;\r\n  }\r\n  \r\n  .title {\r\n    font-size: 72px;\r\n    background: linear-gradient(to bottom, #194c33, #bbb);\r\n    -webkit-background-clip: text;\r\n    -webkit-text-fill-color: transparent;\r\n  }\r\n  \r\n  .img {\r\n    width: 100%;\r\n    height: 500px;\r\n    object-fit: contain;\r\n    /* animation: move 3s infinite ease alternate; */\r\n  }\r\n  \r\n  @keyframes move {\r\n    from {\r\n      transform: translateY(-10px);\r\n    }\r\n    to {\r\n      transform: translateY(10px);\r\n    }\r\n  }\r\n  \r\n  \r\n  .desc {\r\n    font-size: 24px;\r\n    font-weight: 300;\r\n  }"],"names":[],"mappings":"AAAA;;;;;;AAME;;;;;;;AAOA;;;;;;;AAOA;;;;;;AAOA;;;;;;;;;;AAUA"}},
-    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 44, "column": 0}, "map": {"version":3,"sources":["file://D%3A/Dagtal-Agenced/my-app/src/components/Button/button.module.css"],"sourcesContent":[".container {\n  padding: 20px;\n  cursor: pointer;\n  background-color: #53c28b;\n  border: none;\n  border-radius: 5px;\n  width: max-content;\n  color: white;\n}\n"],"names":[],"mappings":"AAAA"}},
-    {"offset": {"line": 53, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
